@@ -1,0 +1,8 @@
+{'category': 'Shirt', 
+'subcategory': 'Casual Shirt', 
+'colors': ['Black', 'Red'], 
+'material': 'Cotton blend', 
+'gender': 'Men', 
+'style': 'Casual',
+'description': "A men's black casual shirt featuring a vibrant red abstract floral pattern."
+}
